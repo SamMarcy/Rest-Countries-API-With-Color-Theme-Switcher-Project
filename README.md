@@ -2,6 +2,8 @@
 
 The Rest Countries API with Color Theme Switcher is a web project that utilizes the REST API provided by Rest Countries to fetch and display country-related data. The project aims to provide users with comprehensive information about countries, including flags, demographic details, population, border countries, and more. It is implemented using HTML, CSS, and JavaScript.
 
+[Website Link](projectcountry.netlify.app)
+
 ## Features
 
 The Rest Countries API project offers the following key features:
